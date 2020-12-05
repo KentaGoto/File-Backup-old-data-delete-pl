@@ -6,7 +6,8 @@ The backup folder is targeted for the backup folder created by the following scr
 https://github.com/KentaGoto/File-Backup-pl
 
 ## Requires
-- Perl 5
+- Perl 5  
+- Windows  
 
 ## License
 MIT 
